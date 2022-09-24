@@ -1,0 +1,45 @@
+.head{
+    display: flex;
+}
+.head1{
+    width: 45%;
+    background-color:blue;
+    padding-bottom: 2vh;
+}
+.head2{
+    width: 45%;
+    margin-left: 5%;
+}
+.a1{
+    width: 33%;
+    margin-left: 10%;
+    margin-top: 5vh;
+}
+.card{
+    margin-top: 7vh;
+    margin-left: -5vh;
+    display: inline-block;
+    height: 25vh;
+    width: 30vh;
+    background-color: aqua;
+}
+.card1{
+    margin-top: 7vh;
+    height: 25vh;
+    width: 30vh;  
+    margin-left: -5vh;
+}
+.btn12{
+    height: 5vh;
+    width: 10vh;
+    margin-left: 8vh;
+}
+h1{
+    color: black;
+}
+.btn10{
+    height: 25px;
+    width: 70px;
+    float: right;
+    margin-top: -6vh;
+}
